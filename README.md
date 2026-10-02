@@ -49,13 +49,6 @@ Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloworldpsys&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
 </p>
 
----
-
-### 📈 Contribution Activity Graph
-
-### 📈 Contribution Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=helloworldpsys)
 
 ---
 
