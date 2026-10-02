@@ -53,7 +53,9 @@ Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
 
 ### 📈 Contribution Activity Graph
 
-![Dev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=helloworldpsys&theme=tokyo-night&hide_border=true)
+### 📈 Contribution Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=helloworldpsys)
 
 ---
 
