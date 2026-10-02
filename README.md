@@ -17,8 +17,8 @@ Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
 
 🎓 BCA Graduate <br>
 🔨 Currently learning **Python & DSA** <br>
-💻 Building projects and improving my problem-solving skills
-🔍 Exploring different areas of tech
+💻 Building projects and improving my problem-solving skills <br>
+🔍 Exploring different areas of tech <br>
 💪 Fun fact: I'm a fitness freak & have tons of hobbies  
 
 ---
