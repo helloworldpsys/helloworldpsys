@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey%20👋%20I'm%20Dev!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
 <!-- Visitor Counter -->
-<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=techsiddhi" /></p>
+<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=helloworldpsys" /></p>
 
 <!-- Intro Section -->
 
@@ -15,9 +15,10 @@
 
 Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.  
 
-🎓 BCA Student <br>
-🔨 Currently learning **JavaScript & DSA** <br>
-🧠 Exploring **Blockchain**<br>
+🎓 BCA Graduate <br>
+🔨 Currently learning **Python & DSA** <br>
+💻 Building projects and improving my problem-solving skills
+🔍 Exploring different areas of tech
 💪 Fun fact: I'm a fitness freak & have tons of hobbies  
 
 ---
@@ -40,12 +41,12 @@ Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techsiddhi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techsiddhi&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=helloworldpsys&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+ <img src="https://streak-stats.demolab.com/?user=helloworldpsys&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techsiddhi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloworldpsys&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
 </p>
 
 ---
